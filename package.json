@@ -1,6 +1,6 @@
 {
   "name": "xctest-client",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Node.js client for xctest",
   "keywords": [
     "xctest"
@@ -11,6 +11,7 @@
     "url": "git://github.com/macacajs/xctest-client.git"
   },
   "dependencies": {
+    "detect-port": "^1.0.5",
     "ios-deviceconsole": "^1.0.1",
     "ios-utils": "~1.0.0",
     "macaca-utils": "~0.1.8",
